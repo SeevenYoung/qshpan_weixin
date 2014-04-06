@@ -4,7 +4,7 @@ DOMAIN = r'http://bbs.stuhome.net/'
 #USERNAME = r'GTRhythm'
 username = r'GTRhythm'
 #password = r'7334b907b1820348139b2adc40b7cd90'
-password = r'13886229914'
+password = r'your passwd'
 
 #LOGINFIELD = r'username'
 loginfield = r'username'
